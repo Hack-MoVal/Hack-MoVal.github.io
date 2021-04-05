@@ -1,8 +1,8 @@
 # Site settings
 title: Hack MoVal
-email: your-email@domain.com
-url: https://example.github.io
-description: "Hack MoVal is an event that you can participate and learn about Computer Science hands on. More information on this event will be posted here soon."
+# email: your-email@domain.com
+url: https://hack-moval.github.io
+description: "Welcome to the Hack Moreno Valley landing page!"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
